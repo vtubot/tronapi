@@ -1,6 +1,7 @@
 import time
 
 from tronpy import Tron, AsyncTron
+from tronpy.keys import PrivateKey
 from tronpy.async_tron import AsyncTransaction
 import pytest
 
